@@ -1,0 +1,2 @@
+g++ -c src/*.cpp -std=c++14 -g -Wall -m64 -I include -I D:\Documents\Code\cpp\SDL2\include && g++ *.o -o debug/game -L D:\Documents\Code\cpp\SDL2\lib -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer 
+pause

@@ -1,0 +1,5 @@
+# ninja log v5
+1	2121	6815560359053185	CMakeFiles/Game.dir/src/entity.cpp.obj	1683ceb484530e4b
+27	2131	6815560359155221	CMakeFiles/Game.dir/src/Vector2d.cpp.obj	a87c50254b51911
+40	2417	6815560362034701	CMakeFiles/Game.dir/src/renderwindow.cpp.obj	5fb9364fef3ba66d
+14	4525	6815560383087196	CMakeFiles/Game.dir/src/main.cpp.obj	c744e1304ec6741c
